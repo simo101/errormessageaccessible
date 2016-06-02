@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="errormessageaccessibility.widget.errormessageaccessibility" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>errormessageaccessibility</name>
+    <description>The description of this widget.</description>
+
+    <icon />
+
+    <properties>
+       
+        <property key="value" type="string" required="true" defaultValue="">
+            <caption>Message</caption>
+            <category>Behavior</category>
+            <description>The message visible within the widget.</description>
+        </property>
+    </properties>
+</widget>
+
